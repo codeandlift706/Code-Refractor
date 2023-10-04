@@ -1,9 +1,11 @@
 # Code-Refractor
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contribution](#contribution)
 - [Questions](#questions)
 
@@ -24,6 +26,9 @@ View a screenshot of the html and CSS:
 ![Screenshot of html and CSS](assets/htmlCssOneScreenshot.png)
 ![Second Screenshot of html and CSS](assets/htmlCssTwoScreenshot.png)
 ![Third Screenshot of html and CSS](assets/htmlCssThreeScreenshot.png)
+
+## License
+This project is under the MIT license.
 
 ## Contribution
 The web page and its images are credited to the content in the starter-code repository, found here: https://github.com/coding-boot-camp/urban-octo-telegram.
