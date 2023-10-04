@@ -16,12 +16,14 @@ GitHub to clone the repository content https://github.com/coding-boot-camp/urban
 VS Code to manipulate the HTML and CSS elements of the webpage.
 
 ## Usage
+Users can clone this webpage to use as a template for HTML and CSS when designing their own webpages.
+
 View a screenshot of the webpage:
-![ScreenShot of Horiseon page](assets/screenshots/Screenshot-Horiseon.png)
+![Screenshot of Horiseon page](assets/Screenshot-Horiseon.png)
 View a screenshot of the html and CSS:
-![ScreenShot of html and CSS](assets/screenshots/htmlCssOneScreenshot.png)
-![Second ScreenShot of html and CSS](assets/screenshots/htmlCssTwoScreenshot.png)
-![Third ScreenShot of html and CSS](assets/screenshots/htmlCssThreeScreenshot.png)
+![Screenshot of html and CSS](assets/htmlCssOneScreenshot.png)
+![Second Screenshot of html and CSS](assets/htmlCssTwoScreenshot.png)
+![Third Screenshot of html and CSS](assets/htmlCssThreeScreenshot.png)
 
 ## Contribution
 The web page and its images are credited to the content in the starter-code repository, found here: https://github.com/coding-boot-camp/urban-octo-telegram.
