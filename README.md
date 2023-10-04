@@ -9,10 +9,12 @@ GitHub to retrieve the repository content.
 VS Code to manipulate the HTML and CSS elements for the web page.
 
 ## Visuals
-View a screenshot of the web page here:
-![ScreenShot](./assets/screenshots/Screenshot-Horiseon.png)
-View a screenshot of the coding here:
-![ScreenShot](Screenshot-VSCode.png)
+View a screenshot of the webpage:
+![ScreenShot of Horiseon page](./assets/screenshots/Screenshot-Horiseon.png)
+View a screenshot of the html and CSS:
+![ScreenShot of html and CSS](./assets/screenshots/htmlCssOneScreenshot.png)
+![Second ScreenShot of html and CSS](./assets/screenshots/htmlCssTwoScreenshot.png)
+![Third ScreenShot of html and CSS](./assets/screenshots/htmlCssThreeScreenshot.png)
 
 ## Credits
 The edits that were made to the web page (specifically, positioning the side column of information, retitling the page, and adding the alt attributes for the images) are credited to the curriculum taught in the UCI coding boot camp. In addition, the source for HTML semantic element tags (for example: header, footer, aside, section) used is: https://www.w3schools.com/html/html5_semantic_elements.asp. To complete the README with screenshots, the source for the code is: https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository. To create jumping anchor links, I referenced: https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html#example-of-creating-a-jumping-anchor-link-10.
