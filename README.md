@@ -10,7 +10,7 @@ VS Code to manipulate the HTML and CSS elements for the web page.
 
 ## Visuals
 View a screenshot of the web page here:
-![ScreenShot](Screenshot-Horiseon.png)
+![ScreenShot](./assets/screenshots/Screenshot-Horiseon.png)
 View a screenshot of the coding here:
 ![ScreenShot](Screenshot-VSCode.png)
 
