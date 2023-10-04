@@ -21,11 +21,11 @@ VS Code to manipulate the HTML and CSS elements of the webpage.
 Users can clone this webpage to use as a template for HTML and CSS when designing their own webpages.
 
 View a screenshot of the webpage:
-![Screenshot of Horiseon page](assets/Screenshot-Horiseon.png)
+![Screenshot of Horiseon page](Assets/Screenshot-Horiseon.png)
 View a screenshot of the html and CSS:
-![Screenshot of html and CSS](assets/htmlCssOneScreenshot.png)
-![Second Screenshot of html and CSS](assets/htmlCssTwoScreenshot.png)
-![Third Screenshot of html and CSS](assets/htmlCssThreeScreenshot.png)
+![Screenshot of html and CSS](Assets/htmlCssOneScreenshot.png)
+![Second Screenshot of html and CSS](Assets/htmlCssTwoScreenshot.png)
+![Third Screenshot of html and CSS](Assets/htmlCssThreeScreenshot.png)
 
 ## License
 This project is under the MIT license.
